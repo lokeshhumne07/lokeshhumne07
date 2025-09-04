@@ -24,12 +24,13 @@ Here are some ideas to get you started:
   <a href="https://github.com/lokeshhumne07">
     <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F700&pause=800&center=true&vCenter=true&width=900&height=60&lines=Hi+There+👋;+I'm+Lokesh+Humane;Full+Stack+Tester+%7C+Developer;Automation+%7C+Gen+AI+%7C+ML+%7C+DevOps;Always+Learning+New+Things!">
   </a>
-</p>
-<p align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="coding animation"/>
+</p >
+<p align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250" alt="coding animation"/>
 </p>
 
-<h2>🌐 Socials: </h2> 
-<p >
+
+<p align="center">
+ <h2>🌐 Socials: </h2> 
 <a  href="https://www.instagram.com/">
   <img height="40" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
   <img width="40"  src="https://github.com/user-attachments/assets/e726d827-a6e8-446b-83d9-ccc84efd4d15" />
