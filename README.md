@@ -1,5 +1,6 @@
-## Hi there 👋
+
 ## Welcome To My Profile
+<!-- Animated intro + tech stack -->
 
 <!--
 **lokeshhumne07/lokeshhumne07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +20,14 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Lokesh%20Humane&desc=Sr%20Software%20Engineer&descSize=30&descAlignY=58&animation=fadeIn&descAlign=62&textBg=false&fontAlign=50&fontAlignY=40"/>
   
 </p>
+<p align="center">
+  <a href="https://github.com/lokeshhumne07">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F700&pause=800&center=true&vCenter=true&width=900&height=60&lines=Hi+There+👋;+I'm+Lokesh+Humane;Full+Stack+Tester+%7C+Developer;Automation+%7C+Gen+AI+%7C+ML+%7C+DevOps;Always+Learning+New+Things!">
+  </a>
+</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="coding animation"/>
+</p>
+
 <h2>🌐 Socials: </h2> 
 <p >
 <a  href="https://www.instagram.com/">
@@ -87,7 +96,10 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 -->  
 </p>
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lokeshhumne07&show_icons=true&theme=radical" height="170"/> <img src="https://streak-stats.demolab.com?user=lokeshhumne07&theme=radical&hide_border=false" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshhumne07&layout=compact&theme=radical" height="170"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lokeshhumne07&show_icons=true&theme=radical" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=lokeshhumne07&theme=radical&hide_border=false" height="170"/> </p> 
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshhumne07&layout=compact&theme=radical" height="170"/> </p>
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lokeshhumne07&theme=onedark&no-frame=true&row=1&column=6"/> </p>
 📈 Contribution Graph
@@ -117,7 +129,13 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 </p>
 
 ⭐ Featured Projects
-<p align="center"> <a href="https://github.com/lokeshhumne07/project-portfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshhumne07&repo=project-portfolio&theme=radical" /> </a> </p> <p align="center"><b>🌐 Project Portfolio:</b> A showcase of my web dev projects with live demos & docs.</p> <p align="center"> <a href="https://github.com/lokeshhumne07/automation-framework"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshhumne07&repo=automation-framework&theme=radical" /> </a> </p> <p align="center"><b>🤖 Automation Framework:</b> A Selenium & TestNG based automation suite for testing web apps.</p> <p align="center"> <a href="https://github.com/lokeshhumne07/genai-experiments"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshhumne07&repo=genai-experiments&theme=radical" /> </a> </p> <p align="center"><b>🧠 GenAI Experiments:</b> Exploring Generative AI with Python & OpenAI APIs.</p> <p align="center"> <a href="https://github.com/lokeshhumne07/devops-lab"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshhumne07&repo=devops-lab&theme=radical" /> </a> </p> <p align="center"><b>⚙️ DevOps Lab:</b> Hands-on projects with Docker, Kubernetes, and CI/CD pipelines.</p>
+<p align="center"> <a href="https://github.com/lokeshhumne07/project-portfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshhumne07&repo=project-portfolio&theme=radical" /> </a> </p>
+<p align="center"><b>🌐 Project Portfolio:</b> A showcase of my web dev projects with live demos & docs.</p> 
+<p align="center"> <a href="https://github.com/lokeshhumne07/automation-framework"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshhumne07&repo=automation-framework&theme=radical" /> </a> </p> <p align="center"><b>🤖 Automation Framework:</b> A Selenium & TestNG based automation suite for testing web apps.</p> 
+<p align="center"> <a href="https://github.com/lokeshhumne07/genai-experiments"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshhumne07&repo=genai-experiments&theme=radical" /> </a> </p>
+<p align="center"><b>🧠 GenAI Experiments:</b> Exploring Generative AI with Python & OpenAI APIs.</p>
+<p align="center"> <a href="https://github.com/lokeshhumne07/devops-lab"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshhumne07&repo=devops-lab&theme=radical" /> </a> </p> 
+<p align="center"><b>⚙️ DevOps Lab:</b> Hands-on projects with Docker, Kubernetes, and CI/CD pipelines.</p>
 🐍 Fun Add-on
 <p align="center"> <img src="https://github.com/lokeshhumne07/lokeshhumne07/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/> </p>
 🎨 Just for Fun
@@ -125,3 +143,87 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <!--
 ![Snake animation](https://github.com/lokeshhumne07/lokeshhumne07/blob/output/github-contribution-grid-snake.svg)  
 -->
+
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Lokesh%20Humane&desc=Full%20Stack%20Tester%20%7C%20Developer%20%7C%20Tech%20Enthusiast&animation=fadeIn&fontAlign=50&fontAlignY=40&descAlign=50"/>
+</p>
+
+## 👋 Hi, I'm Lokesh Humane  
+
+💻 Passionate **Full Stack Tester & Developer** from Nagpur, India.  
+🚀 Exploring **Web Dev | Automation | Gen AI | Machine Learning | DevOps**  
+🎯 2025 Goal: *Build 25+ projects & master 5-10 new technologies!*  
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_LINK)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_LINK)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)  
+
+---
+
+## 🛠️ Languages & Tools  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshhumne07&show_icons=true&theme=radical" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=lokeshhumne07&theme=radical&hide_border=false" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshhumne07&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lokeshhumne07&theme=onedark&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshhumne07&theme=react-dark"/>
+</p>
+
+---
+
+## 🐍 Fun Add-on  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lokeshhumne07/lokeshhumne07/main/images/tech-banner.gif" alt="Tech Stack Banner" width="900" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/lokeshhumne07/lokeshhumne07/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
