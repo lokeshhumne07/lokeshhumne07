@@ -1,4 +1,5 @@
 ## Hi there 👋
+## Welcome To My Profile
 
 <!--
 **lokeshhumne07/lokeshhumne07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Lokesh%20Humane&descAlign=59&descSize=20&desc=Welcome%20to%20My%20Profile&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Lokesh%20Humane&desc=Sr%20Software%20Tester&descSize=25&descAlignY=65&animation=fadeIn&descAlign=65&textBg=false"/>
+  
 </p>
 <h2>🌐 Socials: </h2> 
 <p >
@@ -68,6 +70,11 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+🛠️ Languages & Tools
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,html,css,bootstrap,tailwind,git,github,linux,docker,kubernetes,jenkins,postman,mysql,sqlite&perline=9" /> </a> </p>
+
+
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
