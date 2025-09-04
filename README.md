@@ -71,9 +71,9 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 🛠️ Languages & Tools
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,html,css,bootstrap,tailwind,git,github,linux,docker,kubernetes,jenkins,postman,mysql,sqlite&perline=9" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,python,js,selenium,react,nodejs,express,html,css,bootstrap,tailwind,git,github,linux,docker,kubernetes,jenkins,postman,mysql,sqlite&perline=9" /> </a> </p>
 
-
+<!--
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -84,14 +84,21 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/378fb960-6c5b-4316-8b3c-8f02f6b5833b" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e9437418-b0ad-44b7-82d9-596e65e5cf96" />
 
-
-  
+-->  
 </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lokeshhumne07&show_icons=true&theme=radical" height="170"/> <img src="https://streak-stats.demolab.com?user=lokeshhumne07&theme=radical&hide_border=false" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshhumne07&layout=compact&theme=radical" height="170"/> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lokeshhumne07&theme=onedark&no-frame=true&row=1&column=6"/> </p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshhumne07&theme=react-dark"/> </p>
+
 
 [![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshhumne07)](https://github.com/lokeshhumne07/github-readme-stats)
 [![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshhumne07)](https://github.com/lokeshhumne07/github-readme-stats)
 
 ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
+
 
 <picture>
   <source
@@ -108,6 +115,13 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&textBg=false" />
 </p>
+
+⭐ Featured Projects
+<p align="center"> <a href="https://github.com/lokeshhumne07/project-portfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshhumne07&repo=project-portfolio&theme=radical" /> </a> </p> <p align="center"><b>🌐 Project Portfolio:</b> A showcase of my web dev projects with live demos & docs.</p> <p align="center"> <a href="https://github.com/lokeshhumne07/automation-framework"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshhumne07&repo=automation-framework&theme=radical" /> </a> </p> <p align="center"><b>🤖 Automation Framework:</b> A Selenium & TestNG based automation suite for testing web apps.</p> <p align="center"> <a href="https://github.com/lokeshhumne07/genai-experiments"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshhumne07&repo=genai-experiments&theme=radical" /> </a> </p> <p align="center"><b>🧠 GenAI Experiments:</b> Exploring Generative AI with Python & OpenAI APIs.</p> <p align="center"> <a href="https://github.com/lokeshhumne07/devops-lab"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshhumne07&repo=devops-lab&theme=radical" /> </a> </p> <p align="center"><b>⚙️ DevOps Lab:</b> Hands-on projects with Docker, Kubernetes, and CI/CD pipelines.</p>
+🐍 Fun Add-on
+<p align="center"> <img src="https://github.com/lokeshhumne07/lokeshhumne07/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/> </p>
+🎨 Just for Fun
+<p align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="coding animation"/> </p>
 <!--
 ![Snake animation](https://github.com/lokeshhumne07/lokeshhumne07/blob/output/github-contribution-grid-snake.svg)  
 -->
