@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Lokesh%20Humane&desc=Sr%20Software%20Tester&descSize=25&descAlignY=65&animation=fadeIn&descAlign=65&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Lokesh%20Humane&desc=Welcome%20To%20My%20Profile&descSize=30&descAlignY=58&animation=fadeIn&descAlign=62&textBg=false&fontAlign=50&fontAlignY=40"/>
   
 </p>
 <h2>🌐 Socials: </h2> 
