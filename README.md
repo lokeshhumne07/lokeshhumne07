@@ -69,7 +69,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ## 🛠️ Languages & Tools  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,selenium,react,nodejs,express,html,css,bootstrap,tailwind,git,github,linux,docker,kubernetes,jenkins,postman,mysql,sqlite&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,selenium,react,nodejs,express,html,css,bootstrap,tailwind,git,github,linux,docker,kubernetes,jenkins,postman,mysql,sqlite&perline=10" />
   </a>
 </p>
 
