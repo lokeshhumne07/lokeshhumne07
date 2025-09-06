@@ -137,11 +137,20 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   <img src="https://github.com/lokeshhumne07/lokeshhumne07/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokeshhumne07/lokeshhumne07/BRANCH/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lokeshhumne07/lokeshhumne07/BRANCH/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/lokeshhumne07/lokeshhumne07/BRANCH/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+
 ---
 
 ## 🎨 Just for Fun  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="coding animation"/>
+  <img src="https://raw.githubusercontent.com/lokeshhumne07/lokeshhumne07/master/code.gif" width="500" alt="coding animation"/>
 </p>
 
 <p align="center">
